@@ -1,4 +1,2 @@
 # Intro-repository
-Normal repository on another branch
-This is a totally different change from master writings.
-Commit saved via new branch.
+New description from first read-me branch.
