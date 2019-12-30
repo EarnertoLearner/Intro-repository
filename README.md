@@ -1,3 +1,2 @@
 # Intro-repository
-Normal repository. This is the main repository readme file description
-This is just a normal intro. It should only have an edit or two in this particular case.
+This is the first of the changes made during the introduction. It went from the initial file to this now changed one, which coincides this the first branch added and then edited.
